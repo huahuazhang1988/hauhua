@@ -1,0 +1,6 @@
+#data
+#Tue Jun 11 15:47:55 CEST 2024
+robert=33
+lisi=15
+zhangsan=12
+wangwu=24
